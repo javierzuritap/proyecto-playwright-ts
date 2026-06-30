@@ -1,4 +1,4 @@
-# playwright-project-ts
+# playwright-typescript-framework
 
 End-to-end (E2E) automation suite for SauceDemo built with **Playwright + TypeScript**, following the **Page Object Model (POM)** pattern, featuring custom fixtures, Allure reporting, and a complete CI/CD pipeline using GitHub Actions.
 
